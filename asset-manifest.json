@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e7d9540.css",
+    "main.js": "/static/js/main.053d0923.js",
+    "static/js/453.183908db.chunk.js": "/static/js/453.183908db.chunk.js",
+    "static/media/banner_video.mp4": "/static/media/banner_video.56c07ba4233f5904269a.mp4",
+    "static/media/briyani.png": "/static/media/briyani.26691875862c8bda8c34.png",
+    "static/media/chickenwrap.png": "/static/media/chickenwrap.b677b89b3590e98c1346.png",
+    "static/media/pasta.png": "/static/media/pasta.abc5a844aac821bb5e76.png",
+    "static/media/screencapture.png": "/static/media/screencapture.ca4baa7c58ebc7f55357.png",
+    "static/media/mobilephone.png": "/static/media/mobilephone.8b27f4e0880fa320c808.png",
+    "static/media/phonescreens.png": "/static/media/phonescreens.adbd562e25fdcf83c2ad.png",
+    "static/media/womenrest.jpg": "/static/media/womenrest.df54333c4262cc8f6abf.jpg",
+    "static/media/bowloffruits.jpg": "/static/media/bowloffruits.89a87a12b57a03672ed7.jpg",
+    "static/media/woowlocal.png": "/static/media/woowlocal.6ad680c36e8010992c8d.png",
+    "static/media/banner3.png": "/static/media/banner3.8402c8ae014e633e1373.png",
+    "static/media/banner1.png": "/static/media/banner1.a90777d95546f0b6dc5b.png",
+    "static/media/banner2.png": "/static/media/banner2.34c1e63e309a295e51a6.png",
+    "static/media/logotext.jpg": "/static/media/logotext.ce4d6e1871cc253d3b4e.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/index.html",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.5e7d9540.css.map": "/static/css/main.5e7d9540.css.map",
+    "main.053d0923.js.map": "/static/js/main.053d0923.js.map",
+    "453.183908db.chunk.js.map": "/static/js/453.183908db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e7d9540.css",
+    "static/js/main.053d0923.js"
+  ]
+}
